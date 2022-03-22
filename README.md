@@ -6,7 +6,7 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah)](https://github.com/anuraghazra/github-readme-stats)
 [![Durvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durveshshah)](https://github.com/anuraghazra/github-readme-stats)
 
 

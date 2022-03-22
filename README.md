@@ -10,9 +10,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems reading tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-durveshshah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durvesh-shah/) <a href = "https://medium.com/@durvesh.shah"><img src = "https://user-images.githubusercontent.com/37297153/159540953-cb34db31-9500-424d-8a31-faa6e3d0f8b9.png" height = "20px" alt="Medium Badge"/> </a>
 
+Feel free to reach out to me if you have any queries regarding the repositories. 
+<a href = "mailto:durvesh.shah@gmail.com"><img src = "https://user-images.githubusercontent.com/37297153/159544267-9d0d6039-d676-44a3-b4e6-ab02d4e69f82.png" height = "20px"/>
+</a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah&layout=compact&langs_count=8&exclude_repo=Computer-Vision,AWS-Face-Recognition-Attendance-System)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
@@ -23,6 +26,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Code_Quality](https://img.shields.io/badge/codequality-A-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/durveshshah/Emotion-Detection-System)
 ![Code Climate coverage](https://img.shields.io/codeclimate/coverage/codeclimate/codeclimate)
+![SQL](https://img.shields.io/badge/SQL-95%25-orange)
+
 
 
 <!---

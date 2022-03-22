@@ -1,6 +1,6 @@
 
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 I am a Software Developer, Salesforce Platform Developer and also a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m open towards contributing to frontend and backend for building software, web applications including machine learning projects.
 - :seedling: Exploring Technical Content Writing.

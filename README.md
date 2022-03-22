@@ -12,7 +12,7 @@ Feel free to reach out to me if you have any queries regarding the repositories.
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah&layout=compact&langs_count=8&exclude_repo=Computer-Vision,AWS-Face-Recognition-Attendance-System)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah&layout=compact&langs_count=8&exclude_repo=Computer-Vision,AWS-Face-Recognition-Attendance-System)](https://github.com/durveshshah) 
 
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)

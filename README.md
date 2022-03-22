@@ -4,7 +4,7 @@
 <br>
 
 ### :woman_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Developer, Salesforce Platform Developer, Data Analyst, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m open towards contributing to frontend and backend for building software, web applications including machine learning projects.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems reading tech articles.

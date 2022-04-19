@@ -11,7 +11,9 @@ Feel free to reach out to me if you have any queries regarding the repositories.
 <a href = "mailto:durvesh.shah@gmail.com"><img src = "https://user-images.githubusercontent.com/37297153/159544267-9d0d6039-d676-44a3-b4e6-ab02d4e69f82.png" height = "20px"/>
 </a>
 
-
+Email: durvesh.shah@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/durvesh-shah/ <br>
+Medium: https://medium.com/@durvesh.shah <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshshah&layout=compact&langs_count=8&exclude_repo=Computer-Vision,AWS-Face-Recognition-Attendance-System)](https://github.com/durveshshah) 
 
 
